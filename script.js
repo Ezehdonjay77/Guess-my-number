@@ -1,5 +1,5 @@
 'use strict';
-//Project Giess my number
+//Project Guess my number
 //DOM Manipulation
 /*
 console.log(document.querySelector('.message').textContent); //The DOM is the complete representation of the HTML document.
